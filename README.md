@@ -1,13 +1,25 @@
-- 👋 Hi, I’m @Olapels
-- 👀 I’m interested in data science and analytics
-- 🌱 I’m currently learning python and R for data science, AI, and machine learning
-- 💞️ I’m looking to collaborate on data science and analytics project, I do have a grasp of python using packages such as
-pandas, numpy, scikit learn, tensor flow, seaborne and a host of data science packages
-- 📫 How to reach me 
-phone = +234815908611
-twitter = @MartinssAjakaye
+👋 **Who I am**
 
-<!---
-Olapels/Olapels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m **Martins Ajakaye** — an **Analytics / Data Engineer** who builds reliable data pipelines, backend services, and analytics infrastructure to support data-driven decision-making at scale.
+
+🛠️ **What I work on**
+- Designing and maintaining data ingestion and transformation pipelines  
+- Building backend APIs and services.  
+- Implementing data validation, quality checks, and performance optimisations  
+- Developing analytics and visualisations for business and technical users  
+- Orchestrating and deploying data workflows in production environments
+
+💡 **Areas of focus**
+- Backend and data engineering  
+- Analytics engineering and data reliability  
+- Applied machine learning for structured data  
+- Scalable data platforms and infrastructure  
+
+🚀 **Currently exploring**
+- Modern analytics engineering workflows (e.g. dbt)  
+- Deeper data platform and orchestration patterns  
+
+🤝 **Let’s connect**
+Open to collaborating on backend, data, and analytics engineering projects with real-world impact.
+
+📫 Reach me via **GitHub** or **LinkedIn**
