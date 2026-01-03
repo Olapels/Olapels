@@ -1,13 +1,8 @@
-👋 **Who I am**
 
-Hi, I’m **Martins** — an **Engineer** who builds reliable data pipelines, backend services, and analytics infrastructure to support data-driven decision-making at scale.
+[![DataCamp][datacamp_logo]][datacamp]
+[![LinkedIn][linkedin_logo]][linkedin]
 
-🛠️ **What I work on**
-- Designing and maintaining data ingestion and transformation pipelines  
-- Building backend APIs and services.  
-- Implementing data validation, quality checks, and performance optimisations  
-- Developing analytics and visualisations for business and technical users  
-- Orchestrating and deploying data workflows in production environments
+👋 Hi, I’m **Martins**, an **Engineer** who designs and builds scalable, reliable data pipelines and backend services that deliver high-quality, decision-ready data in production environments.
 
 💡 **Areas of focus**
 - Backend and data engineering  
@@ -15,11 +10,14 @@ Hi, I’m **Martins** — an **Engineer** who builds reliable data pipelines, ba
 - Applied machine learning for structured data  
 - Scalable data platforms and infrastructure  
 
-🚀 **Currently exploring**
-- Modern analytics engineering workflows (e.g. dbt)  
-- Deeper data platform and orchestration patterns  
+Open to collaborating 🤝 on backend, data, and analytics engineering projects with real-world impact.
 
-🤝 **Let’s connect**
-Open to collaborating on backend, data, and analytics engineering projects with real-world impact.
+📫 Reach me via **GitHub** or cliking the **LinkedIn** icon above 
 
-📫 Reach me via **GitHub** or **LinkedIn**
+
+[datacamp_logo]: https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F
+[linkedin_logo]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+
+[datacamp]: https://www.datacamp.com/portfolio/martinsajakaye
+[linkedin]: https://www.linkedin.com/in/ajakaye-martins/
+
