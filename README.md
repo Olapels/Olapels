@@ -1,6 +1,6 @@
 👋 **Who I am**
 
-Hi, I’m **Martins Ajakaye** — an **Analytics / Data Engineer** who builds reliable data pipelines, backend services, and analytics infrastructure to support data-driven decision-making at scale.
+Hi, I’m **Martins** — an **Engineer** who builds reliable data pipelines, backend services, and analytics infrastructure to support data-driven decision-making at scale.
 
 🛠️ **What I work on**
 - Designing and maintaining data ingestion and transformation pipelines  
