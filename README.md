@@ -2,13 +2,14 @@
 [![DataCamp][datacamp_logo]][datacamp]
 [![LinkedIn][linkedin_logo]][linkedin]
 
-👋 Hi, I’m **Martins**, and I design and build scalable, reliable data pipelines and backend services that deliver high-quality, decision-ready data in production environments.
+👋 Hi, I’m **Martins**, a full stack data engineer and I design and build scalable, reliable data pipelines and backend services that deliver high-quality, decision-ready data in production environments.
 
 💡 **Areas of focus**
-- Backend and data engineering  
-- Analytics engineering and data reliability  
-- Applied machine learning for structured data  
-- Scalable data platforms and infrastructure  
+- Backend Services 
+- Scalable data platforms and infrastructure 
+- Data pipeline design and orchestration
+- Applied ML & AI
+  
 
 Open to collaborating 🤝 on backend, data, and analytics engineering projects with real-world impact.
 
