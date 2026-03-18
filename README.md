@@ -4,6 +4,8 @@
 
 Faster,faster, until the thrill of speed overcomes the fear of death 🚲
 
+Software Engineer with a focus on data engineering, data platforms, ML & AI.
+
 
 
 [datacamp_logo]: https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F
